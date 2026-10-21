@@ -1,1 +1,1 @@
-GIVE ME AN A+++++ PLEASE
+CI workflow successfully configured.
