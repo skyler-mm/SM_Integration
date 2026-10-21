@@ -14,7 +14,7 @@ jobs:
       - name: Display message
         run: echo "Continuous Integration workflow is running for CS471!"
 
-       - name: Demo commands 
+      - name: Demo commands 
         run: |
           ls
           echo Skyler McCoy Added additions to build,
